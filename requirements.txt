@@ -1,0 +1,15 @@
+langchain
+langchain-classic
+fastapi
+uvicorn
+chromadb
+pymupdf
+python-docx
+gradio
+langserve
+langchain-community
+sentence-transformers
+langchain-chroma
+langchain-ollama
+langchain-text-splitters
+httpx
