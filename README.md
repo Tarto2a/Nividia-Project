@@ -10,6 +10,8 @@ The project is designed for contract review workflows where users need quick ans
   Your browser does not support the video tag.
 </video>
 
+[Open the project recording](./Recording.mp4)
+
 ## Features
 
 - Upload and index one or more `.pdf` or `.docx` contract files.
