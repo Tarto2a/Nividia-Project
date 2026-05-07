@@ -6,7 +6,9 @@ The project is designed for contract review workflows where users need quick ans
 
 ## Demo Video
 
-[Watch the project recording](./Recording.mp4)
+<video src="./Recording.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>
 
 ## Features
 
