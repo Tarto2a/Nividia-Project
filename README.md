@@ -4,6 +4,10 @@ A local RAG application for uploading contract documents, asking clause-specific
 
 The project is designed for contract review workflows where users need quick answers about payment terms, termination clauses, obligations, risk areas, dates, penalties, and other agreement details.
 
+## Demo Video
+
+[Watch the project recording](./Recording.mp4)
+
 ## Features
 
 - Upload and index one or more `.pdf` or `.docx` contract files.
